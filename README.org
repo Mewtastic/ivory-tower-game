@@ -1,0 +1,35 @@
+* Ivory Tower Game
+
+** This game aims to tell the player a story through the game's main mechanic
+The main mechanic is to isolate the player from colors entirely. As the progress through the game they are 
+given back certain colors one at a time which will allow them to find more solutions to previous puzzles.
+Using the reveal of colors and common meanings associated with those colors we will control lighting,
+environment, and music to portray emotions that the character is going through. We will also apply these
+emotions into the puzzle mechanics themself to further enforce the idea of each chapter of the game
+
+*** Color Representations
+It is important to know these are merely ideas of what each color could represent it is likely these
+will change to better suit the game, tell a better story, and make it easier to understand the game
+- Red: Passion
+- Orange: Energy
+- Yellow: Joy and Happiness
+- Green: Nature and Generosity
+- Blue: Knowledge and Harmony
+- Purple: Enlightenment and Spirituality
+- Pink: Acceptance and Love
+- Ivory: Calm and Simplicity
+- Turqoise: Technology and Clarity *This will guide the player to points of interest*
+- Monochromatic: Fear and the Unknown
+
+*** Game Progression
+**** Chapter 1 - The Black Tower
+**** Chapter 2 - Passion
+**** Chapter 3 - Knowlege and Harmony
+**** Chapter 4 - Nature and Generosity
+**** Chapter 5 - Fear
+**** Chapter 6 - Acceptance
+**** Chapter 7 - Energy
+**** Chapter 8 - Enlightenment and Happiness
+**** Chapter 9 - Clarity
+**** Chapter 10 - The Ivory Tower
+
